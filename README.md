@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @noahharshbarger
 
-I’m a Junior Software Engineer currently working at SumUp, where I contribute to finishing loonshoots 🤠
+I’m a Junior Software Engineer currently working at SumUp, where I contribute to loonshoots 🤠
 
 ### 👀 I’m interested in ...
 
