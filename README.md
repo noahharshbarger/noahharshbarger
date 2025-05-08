@@ -1,20 +1,23 @@
 ### 👋 Hi, I’m @noahharshbarger
 
-I’m a Junior Software Engineer currently working at SumUp, where I contribute to loonshoots 🤠
+I’m a Software Engineer @ SumUp, focusing on `growth` and `expansion` globally within the Bank Squad. 
 
 ### 👀 I’m interested in ...
 
 - Developing secure and scalable FinTech applications
-- API development
-- Integrations
-- Microservices
-- Data-driven systems and analytics
-- UX/UI for web and mobile platforms
+- API development and microservices architecture
+- KYC/KYB compliance and automation
+- Payment processing systems
+- Data-driven growth strategies
+- Global expansion technologies
+- Fraud prevention and security
 
 ### 🌱 I’m currently learning ...
 - Advanced cloud architectures and serverless technologies
 - Optimizing performance and security for financial platforms
 - Integrating machine learning algorithms into fintech solutions
+- Automated KYC/KYB compliance workflows
+- Multi-market expansion technologies
 
 ### 💞️ I’m looking to collaborate on ...
 - Open-source FinTech projects
