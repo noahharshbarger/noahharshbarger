@@ -1,6 +1,6 @@
-👋 Hi, I'm @noahharshbarger
+## 👋 Hi, I'm @noahharshbarger
 
-I'm a Software Engineer @ SumUp, focusing on growth and expansion globally within the Bank Squad.
+I'm a Software Engineer @ SumUp, focusing on growth and expansion globally within the Global Bank Squad.
 
 👀 I'm interested in ...
 - Developing secure and scalable FinTech applications
