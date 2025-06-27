@@ -29,6 +29,6 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/noah-har
 
 ### ⚡ Fun facts:
 - I’m passionate about blending tech with finance to create intuitive solutions that make life easier for entrepreneurs and small business owners. 
-- I'm also a Self-Masochist (FromSoftware fan)
+- I'm also a Self-Masochist (FromSoft fan)
 
 ![Elden Ring Meme](https://i.kym-cdn.com/entries/icons/original/000/039/861/image.png)
