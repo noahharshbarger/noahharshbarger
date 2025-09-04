@@ -6,10 +6,9 @@
 ---
 
 ### 👀 Interests
-- FinTech: payment systems, fraud prevention, KYC/KYB automation  
+- **FinTech:** payment systems, fraud prevention, KYC/KYB automation  
 - **AI & Data**: data cleaning (👨‍🔬 Data Doctor), workflow automation, and applied ML  
 - **GIS & Environment**: floodplain management, stormwater compliance, smart infrastructure  
-- **Game Dev**: narrative-driven systems, roguelikes, and world-building  
 
 ---
 
